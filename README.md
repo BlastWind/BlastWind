@@ -1,16 +1,22 @@
-### Hi there 👋
+### About me
 
-<!--
-**BlastWind/BlastWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Short Term (< 2 yrs)
 
-Here are some ideas to get you started:
+  - Roadmapedia: Create, share, and track learning roadmaps.
+  - Codeup: Platform for generating coding exercise sites.
+  - Build a myriad of low level systems (Do a little bit of everything https://osdev.wiki/wiki/index.html).
+  - Do some CS undergrad research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Long Term (2-5 yrs)
+
+  - Move out and into my own apartment. 
+  - Grow my Youtube channel to 100k (100x to go as of Feb 2022!)
+  - Make it to a setting where I work with inspiring and intelligent people daily to tackle unsolved problems.
+
+- Online Prescence
+  Github, Youtube, and blog
+
+- Some people and content I follow:
+  - Eric Raymond: Unix, SWE principles http://www.catb.org/esr/
+  - SimonDev: GameDev, performance tuning https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A
+  - Andreas Kling, OS from scratch, life advices: https://www.youtube.com/c/AndreasKling

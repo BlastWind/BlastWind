@@ -3,7 +3,7 @@
 - Short Term (< 2 yrs)
 
   - Roadmapedia: Create, share, and track learning roadmaps.
-  - Codeup: Platform for generating coding exercise sites.
+  - CodeGround: Platform for generating coding exercise sites.
   - Build a myriad of low level systems (Do a little bit of everything https://osdev.wiki/wiki/index.html).
   - Do some CS undergrad research
 

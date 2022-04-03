@@ -4,7 +4,7 @@
 
   - [Roadmapedia](https://github.com/BlastWind/roadmapedia): Create, share, and track learning roadmaps.
   - [CodeGround](https://github.com/BlastWind/CodeGround): Platform for generating coding exercise sites (looking for collaboration).
-  - Build a myriad of [low level systems](https://osdev.wiki/wiki/index.html).
+  - Build a myriad of [low level systems](https://osdev.wiki/).
   - Do some CS undergrad research
 
 - Long Term (2-5 yrs)

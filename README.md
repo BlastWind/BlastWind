@@ -2,8 +2,7 @@
 
 - Short Term (< 2 yrs)
 
-  - [Roadmapedia](https://github.com/BlastWind/roadmapedia): Create, share, and track learning roadmaps.
-  - [CodeGround](https://github.com/BlastWind/CodeGround): Platform for generating coding exercise sites (looking for collaboration).
+- Launch a microstartup
   - Build a myriad of [low level systems](https://osdev.wiki/).
   - Do some CS undergrad research
 

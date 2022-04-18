@@ -2,7 +2,7 @@
 
 - Short Term (< 2 yrs)
 
-- Launch a microstartup
+  - Launch a microstartup
   - Build a myriad of [low level systems](https://osdev.wiki/).
   - Do some CS undergrad research
 

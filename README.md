@@ -14,7 +14,7 @@
 
 - Online Prescence
   - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
-  - [Blog] (https://unfooling.com/)
+  - [Blog](https://unfooling.com/)
 
 - Some people and content I follow:
   - [Eric Raymond](http://www.catb.org/esr/): Unix, SWE principles 

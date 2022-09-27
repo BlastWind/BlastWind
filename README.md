@@ -15,6 +15,7 @@
 - Online Prescence
   - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
   - [Blog](https://unfooling.com/)
+  - [Linkedin](https://www.linkedin.com/in/andrew-chen-055754129/)
 
 - Some people and content I follow:
   - [Eric Raymond](http://www.catb.org/esr/): Unix, SWE principles 

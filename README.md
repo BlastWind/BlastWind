@@ -1,12 +1,11 @@
 ### About me
 
-- Short Term (< 2 yrs)
-
+- Short Term (Before my graduation in June 2024)
   - Launch a microstartup ([Idea](https://unfooling.com/improve-code-reading-with-software/) is in incubation)
   - Build a myriad of [low level systems](https://osdev.wiki/). (went through nand2tetris, nothing advanced yet)
   - Do some CS undergrad research (undergoing)
 
-- Long Term (2-5 yrs)
+- Long Term (5-10 yrs)
   - Grow my Youtube channel to 100k
   - Be in a setting where I work with inspiring and intelligent people daily to tackle unsolved problems.
 

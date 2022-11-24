@@ -1,5 +1,7 @@
 ### About me
 
+- [Resume](https://blastwind.github.io/resume/)
+
 - Short Term (Before my graduation in June 2024)
   - Launch a microstartup ([Idea](https://unfooling.com/improve-code-reading-with-software/) is in incubation)
   - Build a myriad of [low level systems](https://osdev.wiki/). (went through nand2tetris, nothing advanced yet)
@@ -18,3 +20,4 @@
   - [Eric Raymond](http://www.catb.org/esr/): Unix, SWE principles 
   - [Andreas Kling](https://serenityos.org/): OS, tools from scratch
   - [Matt Rickard](https://matt-rickard.com/): Informative and thoughtful daily nuggets
+

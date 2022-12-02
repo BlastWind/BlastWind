@@ -1,7 +1,6 @@
 ### About me
 
-- [Resume](https://blastwind.github.io/resume/)
-
+- [Resume](https://blastwind.github.io/resume/), I'm seeking internship opportunities :)
 - Short Term (Before my graduation in June 2024)
   - Launch a microstartup ([Idea](https://unfooling.com/improve-code-reading-with-software/) is in incubation)
   - Build a myriad of [low level systems](https://osdev.wiki/). (went through nand2tetris, nothing advanced yet)

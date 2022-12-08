@@ -17,8 +17,11 @@
   - [Linkedin](https://www.linkedin.com/in/andrew-chen-055754129/)
 
 
-- Some people and content I follow:
+- Some tech people I follow:
   - [Eric Raymond](http://www.catb.org/esr/): Unix, SWE principles 
   - [Andreas Kling](https://serenityos.org/): OS, tools from scratch
   - [Matt Rickard](https://matt-rickard.com/): Informative and thoughtful daily nuggets
 
+- Some non-tech people I follow: 
+  - [videogamedunkey](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg): Passionate game reviewer
+  - [Takuya Kuroda](https://www.youtube.com/watch?v=9Td1G_LFTzQ): Some of the best jazz I ever heard

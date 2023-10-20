@@ -19,4 +19,5 @@
   - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html) 
   - [Disco Elysium](https://discoelysium.com/)
   - [How to Beat Procrastination](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination)
+
 Times I removed/added a goal: 3

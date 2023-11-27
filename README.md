@@ -1,6 +1,5 @@
 ### About me
 
-- [Resume](https://blastwind.github.io/resume/)
 - Short Term (Before my graduation in June 2024)
   - Work through [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
   - Do some CS undergrad research

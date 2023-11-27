@@ -8,8 +8,8 @@
 
 
 - Online Prescence
-  - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
   - [Blog](https://unfooling.com/)
+  - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
   - [Linkedin](https://www.linkedin.com/in/andrew-chen-055754129/)
 
 - Really good stuff:

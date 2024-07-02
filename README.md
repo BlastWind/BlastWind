@@ -11,7 +11,7 @@ My biggest interests are in functional programming, mechanistic interpretability
   - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
   - [Linkedin](https://www.linkedin.com/in/andrew-chen-055754129/)
 
-- Gems:
+- Recommendations:
   - [Cognitive Loads in Programming](https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html) 
   - [Disco Elysium](https://discoelysium.com/)
   - [Oleg Kiselyov's writings](https://okmij.org/ftp/)

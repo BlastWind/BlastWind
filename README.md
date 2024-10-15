@@ -8,6 +8,7 @@ My biggest interests are in functional programming, mechanistic interpretability
 
 - Online Prescence
   - [Blog](https://unfooling.com/)
+  - [Twitter](https://x.com/AndrewChen67)
   - [Youtube](https://www.youtube.com/channel/UCdGYHVptzujcjK67pOnrcGQ)
   - [Linkedin](https://www.linkedin.com/in/andrew-chen-055754129/)
 
@@ -17,6 +18,6 @@ My biggest interests are in functional programming, mechanistic interpretability
   - [Oleg Kiselyov's writings](https://okmij.org/ftp/)
 
 - Currently reading:
-  - [Algebra-Driven Design](https://leanpub.com/algebra-driven-design)
+  - [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)
   - [Software Foundations](https://www.seas.upenn.edu/~cis5000/current/index.html)
-  - Category Theory - Awodey
+  - [Book of Symbols](https://www.goodreads.com/book/show/9321125-the-book-of-symbols)

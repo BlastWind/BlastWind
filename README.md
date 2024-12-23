@@ -1,6 +1,6 @@
 ### About me
 
-My biggest interests are in functional programming, mechanistic interpretability, and algebra.
+My biggest interests are in functional programming, formal methods, and mechanistic interpretability.
 
 - Research
   - [Evaluating Large Language Model Performance on Haskell](https://scholarworks.wm.edu/honorstheses/2186/)
@@ -18,6 +18,6 @@ My biggest interests are in functional programming, mechanistic interpretability
   - [Oleg Kiselyov's writings](https://okmij.org/ftp/)
 
 - Currently reading:
-  - [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)
+  - [Gödel, Escher, Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
   - [Software Foundations](https://www.seas.upenn.edu/~cis5000/current/index.html)
   - [Book of Symbols](https://www.goodreads.com/book/show/9321125-the-book-of-symbols)
